@@ -2,6 +2,15 @@
 
 This repository demonstrates a compilation error related to the `PrecomputedLayout` constructor in the Zenoh C++ library.
 
+## Prerequisites
+
+- cmake
+- make
+- g++
+- Zenoh C++ and Zenoh C 
+  - Reproduced with version 1.6.1
+  - Not reproduced with version 1.5.1
+
 ## Usage
 
 1. Clone the repository.
